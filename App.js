@@ -14,7 +14,7 @@ function App() {
       <Conteudo />
 
       <Rodape
-        nome="Fernando Santos"
+        nome="Nilson Grande"
         data="10/04/2026"
       />
     </View>
